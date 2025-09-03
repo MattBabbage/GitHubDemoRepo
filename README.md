@@ -6,3 +6,5 @@
 [Guide](https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/docs/guide.md)
 
 ![Creating a Notion Integration token](https://github.com/makenotion/notion-mcp-server/blob/main/docs/images/integrations-creation.png)
+
+![Creating a Notion Integration token](http://github.com/makenotion/notion-mcp-server/blob/main/docs/images/integrations-creation.png)
