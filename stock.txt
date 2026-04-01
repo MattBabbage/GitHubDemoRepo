@@ -1,0 +1,13 @@
+Stock Ticker Data
+==================
+
+AAPL    Apple Inc.              $185.50
+GOOGL   Alphabet Inc.           $142.75
+MSFT    Microsoft Corporation   $420.30
+AMZN    Amazon.com Inc.         $178.90
+TSLA    Tesla Inc.              $175.25
+META    Meta Platforms Inc.     $505.60
+NVDA    NVIDIA Corporation      $880.15
+JPM     JPMorgan Chase & Co.    $198.40
+V       Visa Inc.               $280.55
+JNJ     Johnson & Johnson       $156.80
